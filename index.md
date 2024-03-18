@@ -5,6 +5,6 @@ notes for material covered
 2. anatomy of git repositort 
 3. staging committing, pushing pulling  from gitgub 
 
-![](https://www.google.com/search?sca_esv=ae73e0ff17a1c496&sca_upv=1&q=sheffield&tbm=isch&source=lnms&prmd=imnvbtz&sa=X&ved=2ahUKEwjQn8LG1v2EAxWq3AIHHXDYAwsQ0pQJegQIJBAB&biw=1280&bih=563&dpr=1.5#imgrc=Z4Xapz_EZ3_kmM)
+![](https://welcometosheffield.azureedge.net/media-cache/8/4/c/c/c/9/84ccc97f545c582552646a67104cc78ce803f8d9.jpg)
 
 **image of sheffield**
